@@ -13,7 +13,7 @@ var b=10;
 var c=40;
 console.log(a,b,c);
 
-primitive
+//primitive
 var a=10;
 var b=3.14;
 console.log(typeof a);
